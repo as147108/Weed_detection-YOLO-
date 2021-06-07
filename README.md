@@ -6,4 +6,6 @@
 
 目前訓練權重僅達到1500次迭代，無法進行有效偵測。
 
-DataSet來源：[Ravirajsinh Dabhi](https://www.kaggle.com/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes)
+## 資料及來源
+
+[Ravirajsinh Dabhi](https://www.kaggle.com/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes)
