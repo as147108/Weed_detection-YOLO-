@@ -8,4 +8,4 @@
 
 ## 資料及來源
 
-[Ravirajsinh Dabhi](https://www.kaggle.com/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes)
+[Ravirajsinh Dabhi-crop and weed detection data with bounding boxes](https://www.kaggle.com/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes)
